@@ -14,7 +14,7 @@ const App = () => {
 
       <CylinderProgress size={300} progress={0.5} name="B" colorDark="#FF7F00"  colorLight="#FFAA00"/>
 
-      <CylinderProgress size={600} progress={1.0}/>
+      <CylinderProgress size={300} progress={1.0}/>
 
     </div>
 

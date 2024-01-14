@@ -257,7 +257,7 @@ const CylinderProgress = ({ size, progress, name, colorDark,colorLight }) => {
     <text
       xmlSpace="preserve"
       style={{
-        fontSize: "8.0vw",
+        fontSize: "80.0",
         fontWeight: "bold",
         textAlign: "center",
         textAnchor: "middle",
